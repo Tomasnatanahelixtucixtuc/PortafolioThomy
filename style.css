@@ -99,8 +99,12 @@ section.menu nav li {
 
 }
 
+.colegios{
+    width: 5rem;
+}
+
 section.title div.title-div div.title-container h2 {
-    font-size: 5px;
+    font-size: 12px;
     font-weight: 700;
     line-height: 26px;
 }
